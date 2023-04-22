@@ -7,6 +7,7 @@ export default defineNuxtConfig({
   experimental: {
     localLayerAliases: true,
   },
+
   // app config
   app: {
     // global transition
@@ -32,6 +33,8 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode',
     // management
     '@pinia/nuxt',
+    // contents,
+    '@nuxt/content',
 
     // todo: feat/localization
     // '@nuxtjs/i18n'
@@ -75,6 +78,15 @@ export default defineNuxtConfig({
   },
 
   // module::content
+  content: {
+    documentDriven: true,
+    markdown: {
+      mdc: true,
+    },
+    highlight: {
+      theme: 'github-dark',
+    },
+  },
 
   // todo: feat/localization
   // module::i18n
