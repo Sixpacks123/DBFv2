@@ -10,7 +10,7 @@ export default defineAppConfig({
       page: {
         navbar: {
           menus: [
-            { type: 'link', title: 'Domicile', to: { name: 'domicile' } },
+            { type: 'link', title: 'Domicile', to: { name: 'index' } },
             {
               type: 'link',
               title: 'Bibliothèque',
