@@ -83,6 +83,9 @@ export default <Partial<Config>>{
       },
       fontFamily: {
         title: ['HelveticaBIG', 'sans-serif'],
+        GrosTitre: ['GrosTitre', 'sans-serif'],
+        Title3: ['Title3', 'sans-serif'],
+        Title2: ['Title3', 'sans-serif'],
         ibm: ['IBMRegular'],
         sans: ['Nunito', ...defaultTheme.fontFamily.sans],
       },

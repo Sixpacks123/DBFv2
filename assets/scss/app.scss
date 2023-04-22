@@ -4,6 +4,26 @@
   font-size: 130px;
   src: url('../font/HelveticaNeue-Medium.ttf');
 }
+
+@font-face {
+  font-family: 'GrosTitre';
+  font-size: 65px;
+  color: #141414;
+  src: url('../font/HelveticaNeue-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'Title3';
+  font-size: 20px;
+  color: #141414;
+  src: url('../font/HelveticaNeue-Medium.ttf');
+}@font-face {
+  font-family: 'Title2';
+  font-size: 22px;
+  color: #141414;
+  src: url('../font/HelveticaNeue-Medium.ttf');
+}
+
 @font-face {
   font-family: IBMRegular;
   font-size: 17px;
@@ -45,6 +65,8 @@ html.dark {
   }
 }
 
-
+hr {
+  color:#000000;
+}
 // components
 @import 'animations/transitions';
