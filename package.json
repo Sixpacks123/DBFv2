@@ -74,5 +74,9 @@
       "release": true,
       "releaseName": "v${version}"
     }
+  },
+  "dependencies": {
+    "@nuxt/image": "^0.7.1",
+    "@nuxt/types": "^2.16.3"
   }
 }
