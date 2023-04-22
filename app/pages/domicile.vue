@@ -18,7 +18,7 @@ definePageMeta({ layout: 'page' })
             </h1>
             <div class="col-span-12 sm:col-span-6 lg:col-span-4 xl:col-span-3">
               <div class="mt-12">
-                <hr class="mb-4 bg-customYellow" />
+                <hr class="mb-4 text-blackÒ" />
                 <p class="font-ibm text-left">
                   DBF, c’est un studio qui est parti d’un projet sur les rêves (Voir Mirage). Et puis on s’est dit : «pourquoi pas faire un studio ?» alors on l’a fait. Venez découvrir DBF. La flèche <br/> juste ici là. Là.
                 </p>
