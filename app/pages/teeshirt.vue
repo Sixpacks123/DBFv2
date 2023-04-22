@@ -5,7 +5,7 @@ definePageMeta({ layout: 'page' })
 <template>
   <LayoutPageWrapper>
     <LayoutPageSection>
-      <img src="/image/TEESHIRT/1.png" class="pb-5" />
+      <img src="/images/TEESHIRT/1.png" class="pb-5" />
       <p class="text-5xl font-medium font-title pb-2">Tee-shirt</p>
       <hr class="mb-4" />
       <p class="font-medium text-left mb-2">
@@ -31,10 +31,10 @@ definePageMeta({ layout: 'page' })
         passer un message en plus, j’ai tout gagné.
       </p>
       <div class="grid grid-cols-2 gap-3 mb-5">
-        <img src="/image/TEESHIRT/2.png" class="col-span-2" />
-        <img src="/image/TEESHIRT/3.png" class="col-span-2 sm:col-span-1" />
+        <img src="/images/TEESHIRT/2.png" class="col-span-2" />
+        <img src="/images/TEESHIRT/3.png" class="col-span-2 sm:col-span-1" />
 
-        <img src="/image/TEESHIRT/4.png" class="col-span-2 sm:col-span-1" />
+        <img src="/images/TEESHIRT/4.png" class="col-span-2 sm:col-span-1" />
       </div>
       <p class="text-3xl font-medium pb-2">Roche Musique contest</p>
       <hr class="mb-4" />
@@ -49,9 +49,9 @@ definePageMeta({ layout: 'page' })
         Technique de collage scotch et acrylique. Roche musique, label éléctro
         indépendant fondé en 2012 par Jean Janin alias Cézaire.
       </p>
-      <img src="/image/TEESHIRT/5.png" class="mb-2" />
-      <img src="/image/TEESHIRT/6.png" class="mb-2" />
-      <img src="/image/TEESHIRT/7.png" class="mb-2" />
+      <img src="/images/TEESHIRT/5.png" class="mb-2" />
+      <img src="/images/TEESHIRT/6.png" class="mb-2" />
+      <img src="/images/TEESHIRT/7.png" class="mb-2" />
 
     </LayoutPageSection>
   </LayoutPageWrapper>
