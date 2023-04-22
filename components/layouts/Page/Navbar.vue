@@ -18,7 +18,7 @@ const menus = computed(() => awesome?.layout?.page?.navbar?.menus || [])
       <div>
         <slot name="title">
           <NuxtLink to="/" class="font-bold text-lg text-primary-500">
-            <img src="~~/assets/images/Logo.png" alt="" />
+            <img src="/img/Logo.png" alt="" />
           </NuxtLink>
         </slot>
       </div>
