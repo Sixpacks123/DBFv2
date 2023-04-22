@@ -30,12 +30,12 @@ definePageMeta({ layout: 'page' })
           <div
             class="flex flew-row w-full justify-between flex-end pb-20 pt-20"
           >
-            <img class="" src="/img/bibliotheque/1.png" />
-            <img class="h-30 w-60" src="/img/bibliotheque/2.png" />
-            <img class="h-30 w-60" src="/img/bibliotheque/3.png" />
-            <img class="h-30 w-60" src="/img/bibliotheque/4.png" />
-            <img class="h-30 w-60" src="/img/bibliotheque/5.png" />
-            <img class="h-30 w-60" src="/img/bibliotheque/6.png" />
+            <img class="" src="/image/BIBLI/1.png" />
+            <img class="h-30 w-60" src="/image/BIBLI/2.png" />
+            <img class="h-30 w-60" src="/image/BIBLI/3.png" />
+            <img class="h-30 w-60" src="/image/BIBLI/4.png" />
+            <img class="h-30 w-60" src="/image/BIBLI/5.png" />
+            <img class="h-30 w-60" src="/image/BIBLI/6.png" />
           </div>
         </div>
         <div
@@ -54,21 +54,21 @@ definePageMeta({ layout: 'page' })
       <div class="grid grid-cols-3 gap-x-4">
         <div>
           <NuxtLink to="/teeshirt">
-            <AwesomeImages img="/img/bibliotheque/7.png" class="mb-5" />
+            <AwesomeImages img="/image/BIBLI/7.png" class="mb-5" />
           </NuxtLink>
           <p class="text-left font-Title2 mb-2">Tee-shirt</p>
           <hr class="mb-4" />
         </div>
         <div>
           <NuxtLink to="/teeshirt">
-            <AwesomeImages img="/img/bibliotheque/8.png" class="mb-5" />
+            <AwesomeImages img="/image/BIBLI/8.png" class="mb-5" />
           </NuxtLink>
           <p class="text-left font-Title2 mb-2">Photographie</p>
           <hr class="mb-4" />
         </div>
         <div>
           <NuxtLink to="/teeshirt">
-            <AwesomeImages img="/img/bibliotheque/9.png" class="mb-5" />
+            <AwesomeImages img="/image/BIBLI/9.png" class="mb-5" />
           </NuxtLink>
           <p class="text-left font-Title2 mb-2">Built In Rennes</p>
           <hr class="mb-4" />
@@ -83,14 +83,14 @@ definePageMeta({ layout: 'page' })
       <div class="grid grid-cols-3 gap-x-4">
         <div>
           <NuxtLink to="/teeshirt">
-            <AwesomeImages img="/img/bibliotheque/10.png" class="mb-5" />
+            <AwesomeImages img="/image/BIBLI/10.png" class="mb-5" />
           </NuxtLink>
           <p class="text-left font-Title2 mb-2">Chronos</p>
           <hr class="mb-4" />
         </div>
         <div>
           <NuxtLink to="/teeshirt">
-            <AwesomeImages img="/img/bibliotheque/11.png" class="mb-5" />
+            <AwesomeImages img="/image/BIBLI/11.png" class="mb-5" />
           </NuxtLink>
           <p class="text-left font-Title2 mb-2">Showreel</p>
           <hr class="mb-4" />
@@ -98,7 +98,7 @@ definePageMeta({ layout: 'page' })
         </div>
         <div>
           <NuxtLink to="/teeshirt">
-            <AwesomeImages img="/img/bibliotheque/12.png" class="mb-5" />
+            <AwesomeImages img="/image/BIBLI/12.png" class="mb-5" />
           </NuxtLink>
           <p class="text-left font-Title2 mb-2">Titre du projet</p>
           <hr class="mb-4" />
@@ -113,21 +113,21 @@ definePageMeta({ layout: 'page' })
       <div class="grid grid-cols-3 gap-x-4">
         <div>
           <NuxtLink to="/teeshirt">
-            <AwesomeImages img="/img/bibliotheque/13.png" class="mb-5" />
+            <AwesomeImages img="/image/BIBLI/13.png" class="mb-5" />
           </NuxtLink>
           <p class="text-left font-Title2 mb-2">Photographies</p>
           <hr class="mb-4" />
         </div>
         <div>
           <NuxtLink to="/teeshirt">
-            <AwesomeImages img="/img/bibliotheque/14.png" class="mb-5" />
+            <AwesomeImages img="/image/BIBLI/14.png" class="mb-5" />
           </NuxtLink>
           <p class="text-left font-Title2 mb-2">À nos messages vocaux</p>
           <hr class="mb-4" />
         </div>
         <div>
           <NuxtLink to="/teeshirt">
-            <AwesomeImages img="/img/bibliotheque/15.png" class="mb-5" />
+            <AwesomeImages img="/image/BIBLI/15.png" class="mb-5" />
           </NuxtLink>
           <p class="text-left font-Title2 mb-2">Logofolio</p>
           <hr class="mb-4" />

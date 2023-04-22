@@ -28,12 +28,12 @@ definePageMeta({ layout: 'page' })
           <div
             class="flex flew-row w-full justify-between flex-end pb-20 pt-20"
           >
-            <img class="" src="/img/domicile/1.png" />
-            <img class="h-30 w-60" src="/img/domicile/2.png" />
-            <img class="h-30 w-60" src="/img/domicile/3.png" />
-            <img class="h-30 w-60" src="/img/domicile/4.png" />
-            <img class="h-30 w-60" src="/img/domicile/5.png" />
-            <img class="h-30 w-60" src="/img/domicile/6.png" />
+            <img class="" src="/image/domicile/1.png" />
+            <img class="h-30 w-60" src="/image/domicile/2.png" />
+            <img class="h-30 w-60" src="/image/domicile/3.png" />
+            <img class="h-30 w-60" src="/image/domicile/4.png" />
+            <img class="h-30 w-60" src="/image/domicile/5.png" />
+            <img class="h-30 w-60" src="/image/domicile/6.png" />
           </div>
         </div>
         <div
@@ -91,21 +91,21 @@ definePageMeta({ layout: 'page' })
       <hr class="mb-4" />
       <div class="flex flex-col w-full">
         <div class="flex flex-row w-full py-2 gap-3">
-          <AwesomeImages class="w-1/3" img="/img/domicile/7.png" />
-          <AwesomeImages class="w-2/3" img="/img/domicile/8.png" />
+          <AwesomeImages class="w-1/3" img="/image/domicile/7.png" />
+          <AwesomeImages class="w-2/3" img="/image/domicile/8.png" />
         </div>
         <div class="flex flex-row w-full py-2 gap-3">
-          <AwesomeImages class="w-1/2" img="/img/domicile/9.png" />
-          <AwesomeImages class="w-1/2" img="/img/domicile/10.png" />
+          <AwesomeImages class="w-1/2" img="/image/domicile/9.png" />
+          <AwesomeImages class="w-1/2" img="/image/domicile/10.png" />
         </div>
         <div class="flex flex-row w-full py-2 gap-3">
-          <AwesomeImages class="w-1/3" img="/img/domicile/11.png" />
-          <AwesomeImages class="w-1/3" img="/img/domicile/12.png" />
-          <AwesomeImages class="w-1/3" img="/img/domicile/13.png" />
+          <AwesomeImages class="w-1/3" img="/image/domicile/11.png" />
+          <AwesomeImages class="w-1/3" img="/image/domicile/12.png" />
+          <AwesomeImages class="w-1/3" img="/image/domicile/13.png" />
         </div>
         <div class="flex flex-row w-full py-2 gap-3">
-          <AwesomeImages class="w-2/3" img="/img/domicile/14.png" />
-          <AwesomeImages class="w-1/3" img="/img/domicile/15.png" />
+          <AwesomeImages class="w-2/3" img="/image/domicile/14.png" />
+          <AwesomeImages class="w-1/3" img="/image/domicile/15.png" />
         </div>
       </div>
     </LayoutPageSection>
